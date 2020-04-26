@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿#include <iostream>
+=======
+#include <iostream>
+>>>>>>> upstream/master
 
 // calculates the probability of the events A or B for independent events
 
